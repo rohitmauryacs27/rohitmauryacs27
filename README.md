@@ -49,7 +49,7 @@
 ## 📊 DSA & Coding Profiles
 
 - 🔥 LeetCode: https://leetcode.com/u/rohitmaurya601/
-- 📂 DSA Repository: https://github.com/RohitMaurya-16/DSA
+- 📂 DSA Repository: https://github.com/rohitmauryacs27/RohitMaurya_CS-2341404_IILM_GN_DSA
 
 💡 Focus Areas:
 - Data Structures
